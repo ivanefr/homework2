@@ -41,101 +41,100 @@ header {
 }
 
 .main__text {
-    font-weight: 500;
-    font-size: 72px;
-    line-height: 84px;
-    color: #ffffff;
-    text-align: center;
+  font-weight: 500;
+  font-size: 72px;
+  line-height: 84px;
+  color: #ffffff;
+  text-align: center;
 }
 .second__container {
-    padding-top: 48px;
-    background-color: #eeeeee;
-    padding-bottom: 92px;
+  padding-top: 48px;
+  background-color: #eeeeee;
+  padding-bottom: 92px;
 }
 h2 {
-    margin-bottom: 16px;
-    color: #007765;
-    font-size: 64px;
-    font-weight: 500;
-    text-align: center;
+  margin-bottom: 16px;
+  color: #007765;
+  font-size: 64px;
+  font-weight: 500;
+  text-align: center;
 }
 p {
-    font-size: 32px;
-    font-weight: 400;
+  font-size: 32px;
+  font-weight: 400;
 }
 b {
-    font-weight: bold;
+  font-weight: bold;
 }
 em {
-    font-style: italic;
+  font-style: italic;
 }
 .hero__container {
-    background-image: url('images/second.png');
-    background-size: cover;
-    padding: 128px 0;
+  background-image: url("images/second.png");
+  background-size: cover;
+  padding: 128px 0;
 }
 .hero__text {
-    font-style: italic;
-    font-size: 48px;
-    font-weight: 500;
-    text-align: center;
-    color: #ffffff;
-    margin-left: 110px;
-    margin-right: 110px;
+  font-style: italic;
+  font-size: 48px;
+  font-weight: 500;
+  text-align: center;
+  color: #ffffff;
+  margin-left: 110px;
+  margin-right: 110px;
 }
 .intoducing {
-    background-color: #ffffff;
+  background-color: #ffffff;
 }
 .introducing__logo {
-    margin-bottom: 40px;
+  margin-bottom: 40px;
 }
 .pcc__logo {
-    float: left;
-    margin-right: 48px;
+  float: left;
+  margin-right: 48px;
 }
 .team__container {
-    background-color: #eeeeee;
-    padding-top: 48px;
+  background-color: #eeeeee;
+  padding-top: 48px;
 }
 .members_1 {
-    display: flex;
-    justify-content: space-between;
-    margin-top: 32px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 32px;
 }
 .members_2 {
-    display: flex;
-    justify-content: space-between;
-    margin-top: 30px;
-    padding-bottom: 94px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  padding-bottom: 94px;
 }
 span {
-    display: block;
-    text-align: center;
+  display: block;
+  text-align: center;
 }
 .member_name {
-    font-size: 24px;
-    font-weight: bold;
-    color: #007765;
+  font-size: 24px;
+  font-weight: bold;
+  color: #007765;
 }
 .member_role {
-    font-size: 18px;
-    font-style: italic;
-
+  font-size: 18px;
+  font-style: italic;
 }
 .member_photo {
-    margin-bottom: 12px;
+  margin-bottom: 12px;
 }
 figure {
-    text-align: center;
-    height: 283px;
-    width: 350px;
+  text-align: center;
+  height: 283px;
+  width: 350px;
 }
 footer {
-    padding: 48px 0 64px;
-    background-color: #333333;
-    text-align: center;
+  padding: 48px 0 64px;
+  background-color: #333333;
+  text-align: center;
 }
 footer > p {
-    color: #ffffff;
-    font-size: 18px;
+  color: #ffffff;
+  font-size: 18px;
 }
